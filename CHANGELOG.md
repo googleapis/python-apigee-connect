@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/python-apigee-connect/compare/v0.2.1...v0.3.0) (2021-07-24)
+
+
+### Features
+
+* add Samples section to CONTRIBUTING.rst ([#20](https://www.github.com/googleapis/python-apigee-connect/issues/20)) ([6f37510](https://www.github.com/googleapis/python-apigee-connect/commit/6f37510de8b5bd00720335f1343354ee2c932d9e))
+
+
+### Bug Fixes
+
+* enable self signed jwt for grpc ([#24](https://www.github.com/googleapis/python-apigee-connect/issues/24)) ([d02ffa1](https://www.github.com/googleapis/python-apigee-connect/commit/d02ffa1f4906da6ba8d479b18947e6d28ccb1987))
+
 ### [0.2.1](https://www.github.com/googleapis/python-apigee-connect/compare/v0.2.0...v0.2.1) (2021-07-21)
 
 
