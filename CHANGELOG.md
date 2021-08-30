@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/python-apigee-connect/compare/v1.0.0...v1.0.1) (2021-08-30)
+
+
+### Documentation
+
+* migrate default branch from master to main ([#33](https://www.github.com/googleapis/python-apigee-connect/issues/33)) ([1d89407](https://www.github.com/googleapis/python-apigee-connect/commit/1d894071b496e7999b96f5f18e65499857f18412))
+
 ## [1.0.0](https://www.github.com/googleapis/python-apigee-connect/compare/v0.2.2...v1.0.0) (2021-08-03)
 
 
