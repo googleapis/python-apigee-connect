@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/python-apigee-connect/compare/v1.0.0...v1.0.1) (2021-09-24)
+
+
+### Bug Fixes
+
+* add 'dict' annotation type to 'request' ([50db178](https://www.github.com/googleapis/python-apigee-connect/commit/50db178c9dec3b1214d537da0a9bd9088d9ebf43))
+
+
+### Documentation
+
+* migrate default branch from master to main ([#33](https://www.github.com/googleapis/python-apigee-connect/issues/33)) ([1d89407](https://www.github.com/googleapis/python-apigee-connect/commit/1d894071b496e7999b96f5f18e65499857f18412))
+
 ## [1.0.0](https://www.github.com/googleapis/python-apigee-connect/compare/v0.2.2...v1.0.0) (2021-08-03)
 
 
