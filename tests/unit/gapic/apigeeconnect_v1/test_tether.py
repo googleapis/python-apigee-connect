@@ -929,7 +929,6 @@ def test_tether_transport_auth_adc(transport_class):
     [
         transports.TetherGrpcTransport,
         transports.TetherGrpcAsyncIOTransport,
-        transports.TetherRestTransport,
     ],
 )
 def test_tether_transport_auth_gdch_credentials(transport_class):
