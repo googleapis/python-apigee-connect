@@ -3,7 +3,7 @@ Python Client for Apigee Connect API API
 
 |stable| |pypi| |versions|
 
-`Apigee Connect API API`_: 
+`Apigee Connect API API`_: allows the Apigee hybrid management plane to connect securely to the MART service in the runtime plane without requiring you to expose the MART endpoint on the internet.
 
 - `Client Library Documentation`_
 - `Product Documentation`_
