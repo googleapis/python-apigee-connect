@@ -1,6 +1,6 @@
 {
     "name": "apigeeconnect",
-    "name_pretty": "Apigee Connect API",
+    "name_pretty": "Apigee Connect",
     "product_documentation": "https://cloud.google.com/apigee/docs/hybrid/v1.4/apigee-connect",
     "client_documentation": "https://cloud.google.com/python/docs/reference/apigeeconnect/latest",
     "issue_tracker": "",
