@@ -1,4 +1,5 @@
 Python Client for Apigee Connect API
+====================================
 
 |stable| |pypi| |versions|
 
@@ -24,7 +25,7 @@ In order to use this library, you first need to go through the following steps:
 
 1. `Select or create a Cloud Platform project.`_
 2. `Enable billing for your project.`_
-3. `Enable the Apigee Connect API API.`_
+3. `Enable the Apigee Connect API.`_
 4. `Setup Authentication.`_
 
 .. _Select or create a Cloud Platform project.: https://console.cloud.google.com/project
